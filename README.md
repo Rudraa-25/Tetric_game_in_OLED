@@ -36,7 +36,7 @@ It’s designed for the **SSD1306 OLED** using **Adafruit GFX** and **SSD1306** 
 
 ## 🔌 Pin Configuration
 
-![Tetris OLED Preview]("TETRIC_IN_ESP32C3_WITH_0.96OLED/0193881d-69f1-42ac-894c-688cd1ec4c11")
+![Tetris OLED Preview]("[TETRIC_IN_ESP32C3_WITH_0.96OLED/0193881d-69f1-42ac-894c-688cd1ec4c11](https://github.com/Rudraa-25/Tetric_game_in_OLED/blob/main/TETRIC_IN_ESP32C3_WITH_0.96OLED/sketch_oct30a/0193881d-69f1-42ac-894c-688cd1ec4c11.jpg)")
 
 
 | Component         | Arduino Pin | Description         |
